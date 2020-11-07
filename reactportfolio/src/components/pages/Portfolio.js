@@ -20,7 +20,7 @@ function Portfolio() {
 
                 The app involved building a command-line application that allows the user to:
                 
-                . View departments, roles, employees . Add departments, roles, employees . Update employee roles . Update employee managers . Delete departments, roles, and employees"
+                View departments, roles, employees. Add departments, roles, employees. Update employee roles. Update employee managers. Delete departments, roles, and employees"
                 deployedLink="https://drive.google.com/file/d/1MAHHvx6aQjxNKCUH7LtJAdbImsL8cYQG/view?usp=sharing"
                 githubLink="https://github.com/birolezgin/Employee-Tracker.git"
                 /><br></br>
@@ -60,7 +60,7 @@ function Portfolio() {
                 imageSource="assets/imgs/progressive-budget-img.png" 
                 altLabel="Progressive-Budget"
                 header="Project Name: Progressive-Budget"
-                description="Progressive Web App PWA, Budget tracker application that allows user to enter deposits and expenses. Application includes online/offline functionality so user is able to make entries regardless of internet connection. When entering transactions online, the entries are saved into a database and the application repopulates the total when brought back online.
+                description="Progressive Web App, PWA, Budget tracker application that allows user to enter deposits and expenses. Application includes online/offline functionality so user is able to make entries regardless of internet connection. When entering transactions online, the entries are saved into a database and the application repopulates the total when brought back online.
                 Technologies: HTML, CSS, Bootstrap, Javascript, Node.js, MongoDB / Mongoose, Express.js"
 
                 deployedLink="https://peaceful-anchorage-58651.herokuapp.com/"
