@@ -50,8 +50,8 @@ function Portfolio() {
                 altLabel="Workout-Tracker"
                 header="Project Name: Fitness-Tracker"
                 description="This application allows users to track workout data over time to better manage their workout schedule. Users can create new workouts, view previous workouts, and view cumulative statistics of their workout history.
-
                 Technologies: HTML, CSS, Bootstrap, Javascript, Node.js, MongoDB / Mongoose, Express.js"
+                
                 deployedLink="https://calm-anchorage-59085.herokuapp.com/"
                 githubLink="https://github.com/birolezgin/Workout-Tracker.git"
                 /><br></br>
@@ -60,7 +60,9 @@ function Portfolio() {
                 imageSource="assets/imgs/progressive-budget-img.png" 
                 altLabel="Progressive-Budget"
                 header="Project Name: Progressive-Budget"
-                description="Budget tracker application that allows user to enter deposits and expenses. Application includes online/offline functionality so user is able to make entries regardless of internet connection. When entering transactions online, the entries are saved into a database and the application repopulates the total when brought back online"
+                description="Progressive Web App PWA, Budget tracker application that allows user to enter deposits and expenses. Application includes online/offline functionality so user is able to make entries regardless of internet connection. When entering transactions online, the entries are saved into a database and the application repopulates the total when brought back online.
+                Technologies: HTML, CSS, Bootstrap, Javascript, Node.js, MongoDB / Mongoose, Express.js"
+
                 deployedLink="https://peaceful-anchorage-58651.herokuapp.com/"
                 githubLink="https://github.com/birolezgin/Progressive-Budget.git"
                 />
