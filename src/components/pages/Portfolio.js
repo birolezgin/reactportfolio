@@ -13,8 +13,8 @@ function Portfolio() {
                     <h2 class="card-title">Some of My Works</h2><br></br>
 
             <Project 
-                imageSource="assets/imgs/employee-tracker-img.png" 
-                altLabel="Employee-Tracker"
+                imageSource="assets/imgs/burger-menu-img.png" 
+                altLabel="burger-menu"
                 header="Project Name: Employee-Tracker"
                 description="The goal was to architect and build a solution for managing a company's employees using node, inquirer, and MySQL. Developers are often tasked with creating interfaces that make it easy for non-developers to view and interact with information stored in databases. Often these interfaces are known as Content Management Systems.
 
