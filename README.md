@@ -14,3 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 Deployed Link: https://birolezgin-reactportfolio.herokuapp.com/
+
+
+
+![app-img](https://user-images.githubusercontent.com/60679626/98507068-b74d0a80-2211-11eb-960e-ba377d7f588f.PNG)
