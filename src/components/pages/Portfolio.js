@@ -26,7 +26,7 @@ function Portfolio() {
                 /><br></br>
                 
             <Project 
-                imageSource="assets/imgs/burger-menu-img.png" 
+                imageSource="assets/imgs/burger-img.png" 
                 altLabel="burger-menu"
                 header="Project Name: Burger-Menu"
                 description="In this assignment, I created a burger logger with MySQL, Node, Express, Handlebars and a homemade ORM (yum!). I used Node and MySQL to query and route data in my app, and Handlebars to generate my HTML."
