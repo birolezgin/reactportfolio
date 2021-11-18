@@ -24,7 +24,7 @@ function About() {
                     <a href="https://www.linkedin.com/in/birol-ezgin-19b732146/" target="_blank">LinkedIn</a>
                     <p></p>
                     <img className="social-media" src="./assets/imgs/resume.png" alt="Resume" />
-                    <a href="https://drive.google.com/file/d/12-Gpj7Y7g6omfAsHwsmXS2uBiqGYf61-/view?usp=sharing" target="_blank">My Resume</a>
+                    <a href="" target="_blank">My Resume</a>
                     </div>
                 </div>
                 </div>
