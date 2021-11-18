@@ -21,10 +21,10 @@ function About() {
                     <a href="https://github.com/birolezgin" target="_blank">GitHub</a>
                     <p></p>
                     <img className="social-media" src="./assets/imgs/linkedin.png" alt="LinkedIn" />
-                    <a href="https://www.linkedin.com/in/birol-ezgin-19b732146/" target="_blank">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/birol-ezgin-2928b6226/" target="_blank">LinkedIn</a>
                     <p></p>
                     <img className="social-media" src="./assets/imgs/resume.png" alt="Resume" />
-                    <a href="" target="_blank">My Resume</a>
+                    <a href="https://drive.google.com/file/d/193-wP68C_E-ujQSX8WOsdgzeRcUO2VpX/view?usp=sharing" target="_blank">My Resume</a>
                     </div>
                 </div>
                 </div>
