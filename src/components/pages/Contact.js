@@ -9,8 +9,8 @@ function Contact() {
                     <div class="card">
                     <div class = "card-body">
                         <h2 class="card-title">Contact Me</h2>
-                        <h5>My Email: <a href="b.ezginksf@gmail.com">b.ezginksf@gmail.com</a></h5>
-                        <h5>My Phone Number: 425-525-9837</h5>
+                        <h5>My Email: <a href="b.ezginksf@gmail.com">birole2438@gmail.com</a></h5>
+                        <h5>My Phone Number: 425-529-6216</h5>
                     <div>
                         <form>
                             <div class="form-group">
